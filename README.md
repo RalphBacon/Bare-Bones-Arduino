@@ -4,7 +4,7 @@ The only way to save huge amounts of (battery) power when running an Arduino
 # See video #117 at https://www/youtube.com/ralphbacon  
 (Direct link to video: )
 
-So in videos #115 and 116 we've discovered that the Arduino Uno/Nano ATmega328P chip can be run using just microamps of power - but only when constructed in a bespoke manner.
+So in videos #115 and 116 we've discovered that the Arduino Uno/Nano ATmega328P chip can be run using just microamps of power and awoken with either a trigger or a timer respectively - but only when constructed in a bespoke manner.
 
 It's easy to do, and I show you here the handful of components you need to construct the absolute minimum Arduino configuration, how to upload a Bootloader to your naked ATmega328P chip, and finally how to upload code to the new chip.
 
