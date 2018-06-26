@@ -23,3 +23,11 @@ At the time of writing you could get two of these for £1.43 with free shipping 
 The ZIF booloader shield we stumbled across towards the end of the video, makes it very easy to load the bootloader using an Arduino  
 https://www.aliexpress.com/item/AVR-ISP-Shield-Burning-Bootloader-Programmer-Atmega328P-Bootloader-module-with-buzzer-and-LED-indicator-for-Arduino/32853007180.html  
 At time of writing this was just 2.89 - I've ordered one.
+
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so :)
+
+My channel and blog are here:  
+------------------------------------------------------------------  
+https://www.youtube.com/RalphBacon  
+https://ralphbacon.blog  
+------------------------------------------------------------------  
