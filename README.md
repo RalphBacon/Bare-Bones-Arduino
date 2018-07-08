@@ -26,6 +26,10 @@ The ZIF booloader shield we stumbled across towards the end of the video, makes 
 https://www.aliexpress.com/item/AVR-ISP-Shield-Burning-Bootloader-Programmer-Atmega328P-Bootloader-module-with-buzzer-and-LED-indicator-for-Arduino/32853007180.html  
 At the time of writing, this was just 2.89 - I've ordered one.
 
+The 18650 Li-Po battery to 3v/5v converter, ideal for a project like this:  
+https://www.aliexpress.com/item/ESP32-ESP32S-For-Wemos-For-Raspberry-Pi-18650-Battery-Charge-Shield-Board-V3-Micro-USB-Port/32870411748.html  
+I bought it for £1.65 plus 47p shipping, so £2.12 in total (I actually bought two for £3.27 with 57p shipping) which I thought was pretty good, and I'm quite impressed with it so far.
+
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so :)
 
 My channel and blog are here:  
